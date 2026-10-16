@@ -2,7 +2,7 @@
 
 ## 1. Identitas Mahasiswa
 
-- **Nama:** [Isi nama lengkap]
+- **Nama:** Rizki Ramadan
 - **NIM:** 2225250024
 - **Program Studi:** S1 Pendidikan Matematika
 - **Mata Kuliah:** Algoritma dan Pemrograman
