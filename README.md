@@ -6,7 +6,7 @@
 - **NIM:** 2225250024
 - **Program Studi:** S1 Pendidikan Matematika
 - **Mata Kuliah:** Algoritma dan Pemrograman
-- **Pertemuan:** 07
+- **Pertemuan:** 07 
 
 ## 2. Tujuan Pembelajaran
 
